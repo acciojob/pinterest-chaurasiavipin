@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
+img{
+width:400px;
+	height:200px;
+	object-fit:cover;
+
+}
 button{
 	background-color:red;
 	color:white;
